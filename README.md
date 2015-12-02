@@ -125,3 +125,5 @@ When you look at `app/views/programmers/show.html.erb`, you will probably notice
 - [Metaprogramming in Ruby](http://ruby-metaprogramming.rubylearning.com/html/ruby_metaprogramming_2.html) - See section 1.3.2 to learn about `send`.
 - [Stack Overflow - Passing Variables to a Partial](http://stackoverflow.com/questions/16242121/rails-4-passing-variable-to-partial) (see the first answer for a concise example)
 
+
+<a href='https://learn.co/lessons/rails-programmer-profile-partials' data-visibility='hidden'>View this lesson on Learn.co</a>
