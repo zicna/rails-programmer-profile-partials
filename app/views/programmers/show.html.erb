@@ -5,17 +5,21 @@
 </h3>
 
 <div class="row jumbotron">
+
   <div class="col-md-3">
-  <%= image_tag @programmer.image, height: '250px', class:"profile-image" %>
+    <%= image_tag @programmer.image, height: '250px', class:"profile-image" %>
   </div>
+
   <div class="col-md-9 programmer-info">
-    <% @programmer.attributes_for_partial.each do |attribute| %>
-      <%= render partial: 'attribute', locals: {attribute: attribute, programmer: @programmer} %>
+
+    <% @programmer.locals_hash.each do |att, value| %>
+      <%= render partial: 'attribute', locals: {:att => att, :value => value}  %>
     <% end %>
 
     <p>
     <%= link_to "Learn more about #{@programmer.name}", @programmer.wikipedia_page, target: '_blank' %>
     </p>
+
   </div>
 </div>
 
