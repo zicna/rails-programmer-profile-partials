@@ -1,7 +1,7 @@
 # Objectives
 1. Practice using partials.
 2. Use all the different techniques you've learned in this unit. 
-3. Try a little metaprogramming.
+3. Create helper methods in your model to DRY up your views.
 
 ## Overview
 
