@@ -34,4 +34,4 @@ When you look at `app/views/programmers/show.html.erb`, you will probably notice
 - [Stack Overflow - Passing Variables to a Partial](http://stackoverflow.com/questions/16242121/rails-4-passing-variable-to-partial) (see the first answer for a concise example)
 
 
-<a href='https://learn.co/lessons/rails-programmer-profile-partials' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/rails-programmer-profile-partials' title='Objectives'>Objectives</a> on Learn.co and start learning to code for free.</p>
