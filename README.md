@@ -9,7 +9,7 @@ We have a Rails app that showcases some of our favorite programmers. The landing
 
 ## Instructions
 
-Fork and clone the lab. Run `bundle install` and `rake db:migrate`, then `rake db:migrate RAILS_ENV=test`. Next, seed the database with some programmers - run `rake db:seed` - and start the sever to see the app in the browser.
+Fork and clone the lab. Run `bundle install` and `rake db:migrate`, then `rake db:migrate RAILS_ENV=test`. Next, seed the database with some programmers - run `rake db:seed` - and start the server to see the app in the browser.
 
 Run `rspec` and make the tests pass one at a time! The app will continue to have the same functionality (keep checking it in the browser), but you'll be making the following partials to clean up the views:
 
@@ -31,3 +31,5 @@ for more tips.
 - [Action View Partials](http://api.rubyonrails.org/classes/ActionView/PartialRenderer.html)
 - [Metaprogramming in Ruby](http://ruby-metaprogramming.rubylearning.com/html/ruby_metaprogramming_2.html) - See section 1.3.2 to learn about `send`.
 - [Stack Overflow - Passing Variables to a Partial](http://stackoverflow.com/questions/16242121/rails-4-passing-variable-to-partial) (see the first answer for a concise example)
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/rails-programmer-profile-partials'>Programmer Partials Lab</a> on Learn.co and start learning to code for free.</p>
