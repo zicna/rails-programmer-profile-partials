@@ -29,5 +29,3 @@ When you look at `app/views/programmers/show.html.erb`, you will probably notice
 - [Action View Partials](http://api.rubyonrails.org/classes/ActionView/PartialRenderer.html)
 - [Metaprogramming in Ruby](http://ruby-metaprogramming.rubylearning.com/html/ruby_metaprogramming_2.html) (see section 1.3.2 to learn about `send`)
 - [Stack Overflow — Passing Variables to a Partial](http://stackoverflow.com/questions/16242121/rails-4-passing-variable-to-partial) (see the first answer for a concise example)
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/rails-programmer-profile-partials' title='Programmer Partials Lab'>Programmer Partials Lab</a> on Learn.co and start learning to code for free.</p>
