@@ -41,12 +41,10 @@ group :development, :test do
   gem 'selenium-webdriver'
   gem 'better_errors'
   gem 'binding_of_caller'
-  gem 'factory_bot_rails'
   gem 'simplecov'
   gem 'database_cleaner'
   gem 'pry'
   gem 'guard-rspec', require: false
-  gem 'thin'
 end
 
 # Access an IRB console on exception pages or by using <%= console %> in views
